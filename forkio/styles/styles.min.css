@@ -55,7 +55,7 @@ a {
 
 .about {
   background-color: #4a3b4e;
-  background-image: url("../../img/section_about/about-bcg.png");
+  background-image: url("../img/section_about/about-bcg.png");
   background-repeat: no-repeat;
   background-position: top;
   background-size: auto 50%;
@@ -243,7 +243,7 @@ a {
     .header__logo-img {
       width: 4.3rem;
       height: 4.1rem;
-      background-image: url("../../img/header/forkio-logo-purple.png");
+      background-image: url("../img/header/forkio-logo-purple.png");
       background-repeat: no-repeat;
       background-size: contain; }
     .header__logo-text {
